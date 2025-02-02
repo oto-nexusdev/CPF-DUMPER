@@ -2,11 +2,9 @@
 EXTRATOR DE CPF, CNPJ E EMAIL. EXTRAI OS RESPECTIVOS DADOS COM PARES DE SENHAS.
 
 
-# Nexus Dev Center
-
 ## Descrição
 
-O Nexus Dev Center é uma ferramenta desenvolvida por OTO Dev para a extração de dados sensíveis de arquivos `.txt`. O projeto permite a extração de CPF, CNPJ e e-mails juntamente com suas senhas, facilitando a organização de informações importantes.
+O Extrator de Dados é uma ferramenta desenvolvida por OTO Dev para a extração de dados sensíveis de arquivos `.txt`. O projeto permite a extração de CPF, CNPJ e e-mails juntamente com suas senhas, facilitando a organização de informações importantes.
 
 ## Funcionalidades
 
@@ -15,3 +13,7 @@ O Nexus Dev Center é uma ferramenta desenvolvida por OTO Dev para a extração 
 - Extração de e-mails e senhas
 - Processamento concorrente para melhor desempenho
 - Interface amigável com feedback visual
+
+CÓDIGO ESTARÁ ABERTO PARA NOVAS ATUALIZAÇÕES E ADIÇÃO DE NOVAS FERRAMENTAS.
+
+![image](https://github.com/user-attachments/assets/461f07d6-4a1d-444c-aacc-ef0be5bf8500)
